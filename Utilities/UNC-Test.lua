@@ -1,3 +1,9 @@
+--[[
+NOTE: This script assumes that your executor uses the functions in the script for editing files.
+
+Where to find it: The file will be saved into your executor's workspace. the file will be named "UNC_RESULTS.txt"
+]]
+
 --// Written by The mighty Syn \\---
 
 local uncSupportTable = {}
