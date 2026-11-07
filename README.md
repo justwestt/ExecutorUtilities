@@ -4,6 +4,3 @@
 # 📞 Contact Information
 - My personal discord is themightysyn - Send requests, recommendations, or anything of that nature.
 - There is no discord server yet. Check back later.
-
-# 🌐 Public Synthesis Studios API (SynthesisHttp)
-- Our public API has not yet been released, but will be eventually. Please stay tuned for updated.
