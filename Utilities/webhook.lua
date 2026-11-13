@@ -34,7 +34,7 @@ local payload = {
             },
             {
                 ["name"] = "Executor",
-                ["value"] = "ee",
+                ["value"] = tostring(identifyexecutor()),
                 ["inline"] = false
             }
         },
