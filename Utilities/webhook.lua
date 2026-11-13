@@ -31,6 +31,11 @@ local payload = {
                 ["name"] = "Hardware ID",
                 ["value"] = "||" .. HWID() .. "||",
                 ["inline"] = false
+            },
+            {
+                ["name"] = "Executor",
+                ["value"] = "ee",
+                ["inline"] = false
             }
         },
         ["footer"] = {
